@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # NSCH 2022 Survey Data Dictionary
 
 **MHealthConcern** - Mental Health Concern (Composite Variable)
